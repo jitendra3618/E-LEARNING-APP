@@ -1,8 +1,12 @@
 # E-LEARNING APP WITH REACT JS
 
+
+https://github.com/jitendra3618/E-LEARNING-REACT-APP/assets/137607500/9ae88420-400e-4e63-b777-9fea06f457b3
+
+
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run: by using command ```npm start```
 
 ### `npm start`
 
