@@ -1,5 +1,6 @@
 # E-LEARNING APP WITH REACT JS
 
+# Folder Structure
 ```FOLDER STRUCTURE
 my-app
 ├── README.md
