@@ -1,6 +1,6 @@
 # E-LEARNING APP WITH REACT JS
 
-FOLDER STRUCTURE
+```FOLDER STRUCTURE
 my-app
 ├── README.md
 ├── node_modules
@@ -19,7 +19,7 @@ my-app
     ├── logo.svg
     └── serviceWorker.js
     └── setupTests.js
-
+```
 ## Available Scripts
 
 In the project directory, you can run:
